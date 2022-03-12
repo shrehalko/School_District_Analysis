@@ -56,9 +56,9 @@ The school board has notified Maria and her supervisor that the students_complet
 * **Total Budget**: allocated to all the schools in the district<br>
 * **Average Math Score**: This is calculated by adding all the math scores of the students for all the schools and then dividing it by the total number of students in the district.  <br>
 * **Average Reading Score**: This is calculated by adding all the reading scores of the students for all the schools and then dividing it by the total number of students in the district.<br>
-* **% Passing Math**: This is calculated by adding all the math scores >= 70 from all the schools and then dividing it by the total number of students in the district.<br>
-* **% Passing Reading**: This is calculated by adding all the reading scores >= 70 from all the schools and then dividing it by the total number of students in the district.<br>
-* **% Overall Passing**: This is calculated by adding all the math and reading scores >= 70 from all the schools and then dividing it by the total number of students in the district.<br>
+* **% Passing Math**: This is calculated by adding all the **math scores >= 70** from all the schools and then dividing it by the total number of students in the district.<br>
+* **% Passing Reading**: This is calculated by adding all the **reading scores >= 70** from all the schools and then dividing it by the total number of students in the district.<br>
+* **% Overall Passing**: This is calculated by adding all the **math and reading scores >= 70** from all the schools and then dividing it by the total number of students in the district.<br>
 #### <a name="beforenan"></a>Before NaN:
 <p align="center"> <img src = "Images/districtanalysis.png" width ="90%"> </p>
 
@@ -70,7 +70,7 @@ The school board has notified Maria and her supervisor that the students_complet
  3. The Average Reading Score has reduced from **81.88 to 81.86.**
  4. % Passing Math Score has reduced from **74.98% to 74.76%**
  5. % Passing Reading Score has reduced from **85.81% to 85.66%**.
- 6. % Overall Passing has reduced from **65.17% to 64.86.9%**. 
+ 6. % Overall Passing has reduced from **65.17% to 64.86%**. 
 
 ### <a name="SchoolSummary"></a>School Summary
 
