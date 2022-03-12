@@ -5,7 +5,6 @@ School District Analysis
 - [Overview of Project](#OverviewProject)
   * [Background](#Background)
   * [Purpose](#purpose)
-- [Pseudo Code](#Pseudocode)
 - [Results](#results)
     * [District Summary](#DistrictSummary)
     * [School Summary](#SchoolSummary)
@@ -16,7 +15,7 @@ School District Analysis
     * [Scores by school spending per student](#Schoolspending)
     * [Scores by school size](#SchoolSize)
     * [Scores by school type](#SchoolType)
-- [Summary](#Summary)
+- [School and District Analysis Summary](#Summary)
 - [Resources](#resources)
 
 
